@@ -1,0 +1,33 @@
+body{
+    background-color: rgb(223, 222, 222);
+}
+.head{
+    background-color: green;
+}
+.block{
+    float: right;
+}
+ul li{
+    display: inline;
+   
+    padding: 30px;
+}
+.auto{
+    text-align: center;
+    font-size: small;
+}
+}
+.a p ol li{
+    width: 50%;
+    float: left;
+    
+}
+.id2{
+    width: 50%;
+    float: right;
+    color: tomato;
+    
+}
+.a{
+    width: 1000px; height: 10px; border: 50px  margin: 5px;;
+}
